@@ -17,4 +17,4 @@
 #### Скриншоты
 Пример окна с успешно рабочими WebSocket-ами
 <br/>
-<img src="_passWs.jpg" width="350" />
+<img src="_passWs.jpg" alt="testing WebSocket" width="350" />
