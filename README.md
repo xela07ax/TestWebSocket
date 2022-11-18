@@ -3,7 +3,7 @@
 Сервер с простенькой страничкой, которая проверит тест соединения
 #### Запуск программы
 
-* ```go_win_WebSocketTutorial.exe``` для windows
+* ```.\go_win_WebSocketTutorial.exe``` для windows
 * ```./go_lin_WebSocketTutorial``` для Linux
 * Для других ОС см. ```go build```
 
